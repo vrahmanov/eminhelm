@@ -1,4 +1,4 @@
-class foo < Formula
+class MyFormula < Formula
   # ...
 
   def install
